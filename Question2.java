@@ -4,7 +4,7 @@ package com.company;
 public class Question2 {
 
 	public static void main(String[] args) {
-		int[]b_nums= {36,19,29,12,5};
+		int[]b_nums= {3};
 		int temp;
 		for(int i=0;i<a.length;i++)
 		{
