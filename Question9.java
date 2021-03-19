@@ -1,6 +1,6 @@
 //leap year
 import java.util.Scanner;
-public class Check_Leap_Year 
+public class Question9 
 {
     public static void main(String args[])
     {
